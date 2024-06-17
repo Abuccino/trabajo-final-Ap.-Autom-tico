@@ -1,9 +1,9 @@
-.. Clasificación Marea Roja documentation master file, created by
+.. Clasificación ENT documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Clasificación Marea Roja documentation!
+Clasificación ENT documentation!
 ==============================================
 
 Contents:

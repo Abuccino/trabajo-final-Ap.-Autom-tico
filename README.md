@@ -29,8 +29,8 @@ Para que se pueda llevar a cabo debe existir una correcta utilización de los da
 
 -	Obtención de los datos: los datos son provenientes de la página del inced de la Encuensta Nacional de Factores de Riesgo del 2018.
 -	Integración y limpieza de los datos provenientes de las distintas fuentes.
--	Análisis exploratorio de los datos en busca de comprender mejor los datos y de acuerdo a la limpieza de los datos se va a tener en cuenta las variables que puedan proporcionar la mayor cantidad de datos.
-- Proporcione una descripción completa del dataset: el dataset está compuesto por 29224 filas y 287 columas, tipos de datos: flotantes y enteros. para poder analizar el trabajo de investigación se filtro por provincia teniendo un total de 321 filas y 287 columnas
+-	Análisis exploratorio de los datos en busca de comprender mejor los datos y de acuerdo a la limpieza de los datos se va a tener en cuenta las variables que puedan proporcionar la mayor cantidad de información que sea relevante para el objeto de estudio.
+- Proporcione una descripción completa del dataset: el dataset está compuesto por 29224 filas y 287 columas, tipos de datos: flotantes y enteros. para poder analizar el trabajo de investigación se filtro por provincia teniendo un total de 321 filas y 287 columnas de Tierra del Fuego
 
 ------------
 
